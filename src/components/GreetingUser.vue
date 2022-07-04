@@ -19,10 +19,10 @@
 </template>
 
 <script>
-  export default {
-    name: 'GreetingUserComponent',
-    data: () => ({
-      name: '',
-    }),
-  }
+export default {
+  name: 'GreetingUserComponent',
+  data: () => ({
+    name: '',
+  }),
+}
 </script>
