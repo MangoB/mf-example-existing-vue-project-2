@@ -5,7 +5,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '',
+    path: '/mf-root-2/',
     name: 'Main page',
     component: () => import('../views/Main.vue'),
     meta: {
@@ -13,7 +13,7 @@ const routes = [
     },
   },
   {
-    path: '/dog',
+    path: '/mf-root-2/dog',
     name: 'Dog page',
     component: () => import('../views/Dog.vue'),
     meta: {
@@ -21,7 +21,7 @@ const routes = [
     },
   },
   {
-    path: '/cat',
+    path: '/mf-root-2/cat',
     name: 'Cat page',
     component: () => import('../views/Cat.vue'),
     meta: {
