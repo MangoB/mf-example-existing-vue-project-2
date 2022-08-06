@@ -19,6 +19,6 @@ Finally, you only have to open http://localhost:9003 in a browser to see the app
 ## Single-SPA applications
 This application is a boilerplate about an existing app for use registered into the Single-SPA root application.
 
-#### [mf-root2](https://github.com/MangoB/mf-root2)
+#### [mf-root-2](https://github.com/MangoB/mf-root-2)
 This application is the root of a micro-frontends project,
 After running the root application and "mf-example-existing-vue-project-2" application has to open http://localhost:9000 in a browser to see the app running
