@@ -2,7 +2,7 @@
 This is an example existing Vue micro-frontend application repository,
 For demonstrating how to use Single-SPA [Single-SPA](https://medium.com/@a.sinlapakorn/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-micro-frontend-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-single-spa-part-2-intermediate-level-72b7622e0540).
 
-*Develop from [mf-root](https://github.com/MangoB/mf-root)
+*Develop from [mf-example-existing-vue-project](https://github.com/MangoB/mf-example-existing-vue-project)
 
 ## Setup
 To run this project, install it locally:
